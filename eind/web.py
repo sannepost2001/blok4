@@ -28,7 +28,7 @@ def zoeken():
     cursor = conn.cursor()
     zoekwoord = request.form["zoekwoord"]
     cursor.execute("select description from gene where description like '%" + zoekwoord + "%'")
-    records = cursor.fetchall()  # lijst met al de namen die het zoekwoord in de naam hebben
+    records = cursor.fetchall()
     cursor.close()
     conn.close()
     teruggeven = ""
