@@ -22,15 +22,14 @@ def hello_world():
 
 @app.route('/', methods=['POST'])
 def hello():
-    seq = request.form["seq"]
-    my_seq = Seq(seq)
-    lengte = len(seq)
-    for letter in seq:
+    coding_dna = request.form["seq"]
+    lengte = len(coding_dna)
+    for letter in coding_dna:
         if letter in "atcg":
-            rna = my_seq.reverse_complement()
-            eiwit = my_seq.translate()
-            return "Seq " + seq + " is DNA en " + str(lengte) + " base lang." + "reverse complement is: " \
-                   + rna + " protein translation is " + eiwit
+            messenger_rna = coding_dna.transcribe()
+            eiwit = messenger_rna.translate()
+            return "Seq " + coding_dna + " is DNA en " + str(lengte) + " base lang." + "reverse complement is: " \
+                   + messenger_rna + " protein translation is " + eiwit
         elif letter in "aucg":
             eiwit = my_seq.translate()
             return "Seq " + seq + " is RNA en " + str(lengte) + " base lang." + " Protein translation is " \
@@ -39,6 +38,14 @@ def hello():
             return "Seq " + seq + " is een Eiwit en " + str(lengte) + " base lang."
         else:
             return "Dis niks"
+
+
+coding_dna = Seq("ATGGCCATTGTAATGGGCCGCTGAAAGGGTGCCCGATAG")
+print(coding_dna)
+template_dna = coding_dna.reverse_complement()
+print(template_dna)
+messenger_rna = coding_dna.transcribe()
+print(messenger_rna)
 
 
 if __name__ == '__main__':
