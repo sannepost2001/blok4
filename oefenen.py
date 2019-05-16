@@ -1,39 +1,27 @@
-from Bio.Seq import Seq
-import re
-from Bio.Alphabet import IUPAC
+from Bio.Blast import NCBIXML
+from Bio.Blast import NCBIWWW
 
-# my_seq = Seq("GATCGATGGGCCTATATAGGATCGAAAATCGC", IUPAC.unambiguous_dna)
-# print( my_seq)
-# print(my_seq.complement())
-# print(my_seq.reverse_complement())
-#
-# from Bio.Seq import Seq
-# from Bio.Alphabet import IUPAC
-# coding_dna = Seq("ATGGCCATTGTAATGGGCCGCTGAAAGGGTGCCCGATAG")
-# print(coding_dna)
-# template_dna = coding_dna.reverse_complement()
-# print(template_dna)
-# messenger_rna = coding_dna.transcribe()
-# print(messenger_rna)
-# print(messenger_rna.translate())
-dna = "AUGGCCAUUGUAAUGGGCCGCUGAAAGGGUGCCCGAUAG"
-coding_dna = Seq(dna)
+sequence = "CGTAACAAGGTTTCCGTAGGTGAACCTGCGGAAGGATCATTGATGAGACCGTGGAATAAA"
 
-lengte = len(coding_dna)
+print("BLASTEN")
+result_handle = NCBIWWW.qblast("blastn", "nr", sequence)
+print("Geblast")
 
-if re.search("[^ATCG]", dna) == None:
-    dna = True
-    messenger_rna = coding_dna.transcribe()
-    eiwit = messenger_rna.translate()
-    print("Seq " + coding_dna + " is DNA en " + str(
-        lengte) + " base lang." + "reverse complement is: " + messenger_rna + " protein translation is " + eiwit)
-elif re.search("[^AUCG]", dna) == None:
-    rna = True
-    messenger_rna = coding_dna.transcribe()
-    eiwit = messenger_rna.translate()
-    print("Seq " + coding_dna + " is RNA en " + str(lengte) + " base lang." + " Protein translation is " + eiwit)
-elif re.search("[BJOUXZ]", dna) == None:
-    eiwit = True
-    print("Seq " + coding_dna + " is een Eiwit en " + str(lengte) + " base lang.")
-else:
-    print("Dis niks")
+bestand = open("blast_report.xml", "w")
+resultaat_xml = result_handle.readlines()
+bestand.writelines(resultaat_xml)
+bestand.close()
+
+result_handle = open("blast_report.xml", "r")
+blast_records = NCBIXML.parse(result_handle)
+blast_record = next(blast_records)
+
+for alignment in blast_record.alignments:
+    for hsp in alignment.hsps:
+        print("-" * 80)
+        print("sequence: ", alignment.title)
+        print("lengte:   ", alignment.length)
+        print("e-value:  ", hsp.expect)
+        print(hsp.query)
+        print(hsp.match)
+        print(hsp.sbjct)

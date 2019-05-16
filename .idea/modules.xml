@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/afvink4/.idea/afvink4.iml" filepath="$PROJECT_DIR$/afvink4/.idea/afvink4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/afvink4/.idea/afvink4.iml" filepath="$PROJECT_DIR$/afvink4/.idea/afvink4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/blok4.iml" filepath="$PROJECT_DIR$/.idea/blok4.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/chimper-master/.idea/chimper-master.iml" filepath="$USER_HOME$/PycharmProjects/chimper-master/.idea/chimper-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eind/.idea/eind.iml" filepath="$PROJECT_DIR$/eind/.idea/eind.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/eind 1/.idea/eind 1.iml" filepath="$USER_HOME$/PycharmProjects/eind 1/.idea/eind 1.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/eindopdracht/.idea/eindopdracht.iml" filepath="$USER_HOME$/PycharmProjects/eindopdracht/.idea/eindopdracht.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/eindopdracht/.idea/oefenen.iml" filepath="$USER_HOME$/PycharmProjects/eindopdracht/.idea/oefenen.iml" />
+    </modules>
+  </component>
+</project>

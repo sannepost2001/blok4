@@ -1,0 +1,39 @@
+body {
+    background-color: powderblue;
+}
+
+h1 {
+    color: blue;
+    font-family: verdana;
+    font-size: 300%;
+}
+
+h2 {
+    color: orange;
+    font-family: verdana;
+    font-size: 200%;
+}
+
+p {
+    color: green;
+    font-family: comic sans ms;
+    font-size: 160%;
+}
+
+a {
+    color: purple;
+    font-family: comic sans ms;
+    font-size: 100%;
+}
+
+table, th, td {
+    color: red;
+    font-family: comic sans ms;
+    font-size: 60%;
+}
+
+table, th {
+    color: purple;
+    font-family: comic sans ms;
+    font-size: 80%;
+}
