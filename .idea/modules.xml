@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/PycharmProjects/Eind2/.idea/Eind2.iml" filepath="$USER_HOME$/PycharmProjects/Eind2/.idea/Eind2.iml" />
       <module fileurl="file://$PROJECT_DIR$/afvink4/.idea/afvink4.iml" filepath="$PROJECT_DIR$/afvink4/.idea/afvink4.iml" />
       <module fileurl="file://$PROJECT_DIR$/afvink4/.idea/afvink4.iml" filepath="$PROJECT_DIR$/afvink4/.idea/afvink4.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/blok4.iml" filepath="$PROJECT_DIR$/.idea/blok4.iml" />

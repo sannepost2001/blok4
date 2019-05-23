@@ -12,6 +12,7 @@
     <orderEntry type="module" module-name="afvink4" />
     <orderEntry type="module" module-name="afvink4" />
     <orderEntry type="module" module-name="oefenen" />
+    <orderEntry type="module" module-name="Eind2" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
