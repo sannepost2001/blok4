@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41f6a856-386f-42d6-b077-56ea52bd031e" name="Default Changelist" comment="13-5-19 13:56">
-      <change beforePath="$PROJECT_DIR$/.idea/blok4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/blok4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="41f6a856-386f-42d6-b077-56ea52bd031e" name="Default Changelist" comment="25-5-19">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oefenen.py" beforeDir="false" afterPath="$PROJECT_DIR$/oefenen.py" afterDir="false" />
-      <change beforePath="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/app.py" beforeDir="false" afterPath="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/app.py" afterDir="false" />
-      <change beforePath="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/static/css/name.css" beforeDir="false" afterPath="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/static/css/name.css" afterDir="false" />
-      <change beforePath="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/bacterie.html" beforeDir="false" afterPath="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/bacterie.html" afterDir="false" />
-      <change beforePath="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/home.html" beforeDir="false" afterPath="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/home.html" afterDir="false" />
-      <change beforePath="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/statistiek.html" beforeDir="false" afterPath="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/statistiek.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +15,7 @@
     <SUITE FILE_PATH="coverage/blok4$Flask__afvink4_app_py_.coverage" NAME="Flask (afvink4/app.py) Coverage Results" MODIFIED="1557389901663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/blok4$af3opdrachtversie2.coverage" NAME="af3opdrachtversie2 Coverage Results" MODIFIED="1558011561710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/afvink3" />
     <SUITE FILE_PATH="coverage/blok4$Flask______________PycharmProjects_eindopdracht_app_py_.coverage" NAME="Flask (../../../../PycharmProjects/eindopdracht/app.py) Coverage Results" MODIFIED="1558012029157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/blok4$app.coverage" NAME="app Coverage Results" MODIFIED="1558606491121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Eind2/eindopdracht" />
+    <SUITE FILE_PATH="coverage/blok4$app.coverage" NAME="app Coverage Results" MODIFIED="1558796043249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Eind2/eindopdracht" />
     <SUITE FILE_PATH="coverage/blok4$Flask______________PycharmProjects_eind_1_app_py_.coverage" NAME="Flask (../../../../PycharmProjects/eind 1/app.py) Coverage Results" MODIFIED="1557308442020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/blok4$web.coverage" NAME="web Coverage Results" MODIFIED="1557317475001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eind" />
     <SUITE FILE_PATH="coverage/blok4$Flask__afvink42_app_py_.coverage" NAME="Flask (afvink42/app.py) Coverage Results" MODIFIED="1557395957622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -38,19 +29,20 @@
     <session id="-1558129860">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="3" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="16" />
+          <entry key="css" value="18" />
           <entry key="html" value="63" />
-          <entry key="ico" value="3" />
+          <entry key="ico" value="4" />
           <entry key="js" value="3" />
           <entry key="md" value="1" />
           <entry key="py" value="44" />
@@ -63,9 +55,9 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="16" />
+          <entry key="CSS" value="18" />
           <entry key="HTML" value="63" />
-          <entry key="Image" value="3" />
+          <entry key="Image" value="4" />
           <entry key="JavaScript" value="3" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="6" />
@@ -76,19 +68,19 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="306" />
-          <entry key="html" value="1814" />
-          <entry key="py" value="4198" />
-          <entry key="txt" value="181" />
+          <entry key="css" value="438" />
+          <entry key="html" value="2461" />
+          <entry key="py" value="4748" />
+          <entry key="txt" value="183" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="306" />
-          <entry key="HTML" value="1814" />
-          <entry key="PLAIN_TEXT" value="181" />
-          <entry key="Python" value="4192" />
-          <entry key="SQL" value="6" />
+          <entry key="CSS" value="438" />
+          <entry key="HTML" value="2461" />
+          <entry key="PLAIN_TEXT" value="183" />
+          <entry key="Python" value="4739" />
+          <entry key="SQL" value="9" />
         </counts>
       </usages-collector>
     </session>
@@ -98,17 +90,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/tabel.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/bacterie.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="6" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+            <state relative-caret-position="119">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
             </state>
           </provider>
         </entry>
@@ -116,8 +99,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/static/css/name.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="289">
+              <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -125,8 +108,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+            <state relative-caret-position="337">
+              <caret line="116" selection-start-line="116" selection-end-line="116" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -134,17 +117,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/statistiek.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="80" />
+            <state relative-caret-position="289">
+              <caret line="68" column="4" selection-start-line="68" selection-start-column="4" selection-end-line="68" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/oefenen.py">
+        <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/bacterie.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-121">
-              <caret line="62" column="23" selection-start-line="62" selection-start-column="23" selection-end-line="62" selection-end-column="23" />
+            <state relative-caret-position="1870">
+              <caret line="110" column="4" selection-start-line="110" selection-start-column="4" selection-end-line="110" selection-end-column="4" />
+              <folding>
+                <element signature="n#style#0;n#form#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -152,8 +138,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+            <state relative-caret-position="168">
+              <caret line="65" column="48" selection-start-line="65" selection-start-column="48" selection-end-line="65" selection-end-column="48" />
               <folding>
                 <element signature="e#52#74#0" expanded="true" />
               </folding>
@@ -176,12 +162,17 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>p</find>
-      <find>aside</find>
       <find>il</find>
       <find>inline</find>
       <find>nav ul</find>
       <find>nav</find>
       <find>ul</find>
+      <find>paddi</find>
+      <find>arti</find>
+      <find>pie</find>
+      <find>bacte</find>
+      <find>piechart</find>
+      <find>aside</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -232,12 +223,13 @@
         <option value="$USER_HOME$/PycharmProjects/oefenen/templates/bacterie.html" />
         <option value="$USER_HOME$/PycharmProjects/oefenen/templates/statistiek.html" />
         <option value="$USER_HOME$/PycharmProjects/eindopdracht/static/css/name.css" />
-        <option value="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/tabel.html" />
         <option value="$PROJECT_DIR$/oefenen.py" />
+        <option value="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/stylesheet.css" />
         <option value="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/app.py" />
-        <option value="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/bacterie.html" />
         <option value="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/home.html" />
         <option value="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/statistiek.html" />
+        <option value="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/bacterie.html" />
+        <option value="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/tabel.html" />
         <option value="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/static/css/name.css" />
       </list>
     </option>
@@ -275,29 +267,6 @@
               <item name="Eind2" type="462c0819:PsiDirectoryNode" />
               <item name="eindopdracht" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="blok4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Eind2" type="462c0819:PsiDirectoryNode" />
-              <item name="eindopdracht" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blok4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Eind2" type="462c0819:PsiDirectoryNode" />
-              <item name="eindopdracht" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blok4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Eind2" type="462c0819:PsiDirectoryNode" />
-              <item name="eindopdracht" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blok4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eindopdracht" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -316,18 +285,18 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\SannePost\PycharmProjects\Eind2\eindopdracht\static" />
-      <recent name="C:\Users\SannePost\PycharmProjects\Eind2\eindopdracht\templates" />
-      <recent name="C:\Users\SannePost\PycharmProjects\oefenen\static" />
-      <recent name="C:\Users\SannePost\PycharmProjects\oefenen\templates" />
-      <recent name="C:\Users\SannePost\Dropbox\bio informatica\jaar1\blok4\eind" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\SannePost\PycharmProjects\Eind2\eindopdracht" />
       <recent name="C:\Users\SannePost\PycharmProjects\Eind2" />
       <recent name="C:\Users\SannePost\PycharmProjects\oefenen\templates" />
       <recent name="C:\Users\SannePost\PycharmProjects\eindopdracht\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SannePost\PycharmProjects\eindopdracht" />
+      <recent name="C:\Users\SannePost\PycharmProjects\Eind2\eindopdracht\static" />
+      <recent name="C:\Users\SannePost\PycharmProjects\Eind2\eindopdracht\templates" />
+      <recent name="C:\Users\SannePost\PycharmProjects\oefenen\static" />
+      <recent name="C:\Users\SannePost\PycharmProjects\oefenen\templates" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -582,10 +551,31 @@
       <option name="project" value="LOCAL" />
       <updated>1558463153115</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="23-5-19">
+      <created>1558606542069</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1558606542069</updated>
+    </task>
+    <task id="LOCAL-00020" summary="23-5-19">
+      <created>1558609012423</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1558609012423</updated>
+    </task>
+    <task id="LOCAL-00021" summary="25-5-19">
+      <created>1558798684895</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1558798684895</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
-  <component name="TodoView" selected-index="4">
+  <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
     </todo-panel>
@@ -597,8 +587,31 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1363" height="735" extended-state="0" />
-    <editor active="true" />
     <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16270146" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4973139" weight="0.21297836" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4988488" visible="true" weight="0.3294509" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4988488" weight="0.0049916804" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5011512" side_tool="true" visible="true" weight="0.3294509" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49961627" weight="0.3294509" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4988488" weight="0.3294509" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.3294509" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31005374" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -610,31 +623,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49924356" weight="0.006557377" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5015129" side_tool="true" weight="0.0" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3295082" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49924356" weight="0.3295082" />
-      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.3294509" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.31005374" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.31946754" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49924356" weight="0.006557377" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49924356" weight="0.0049916804" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5015129" side_tool="true" weight="0.0" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.3295082" />
@@ -664,7 +653,9 @@
     <MESSAGE value="html pagina nog niet in flask" />
     <MESSAGE value="versie7" />
     <MESSAGE value="13-5-19 13:56" />
-    <option name="LAST_COMMIT_MESSAGE" value="13-5-19 13:56" />
+    <MESSAGE value="23-5-19" />
+    <MESSAGE value="25-5-19" />
+    <option name="LAST_COMMIT_MESSAGE" value="25-5-19" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
@@ -817,75 +808,75 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/static/favicon.ico">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oefenen.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-121">
-          <caret line="62" column="23" selection-start-line="62" selection-start-column="23" selection-end-line="62" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/PycharmProjects/eindopdracht/app.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/tabel.html">
+    <entry file="file://$USER_HOME$/PycharmProjects/eindopdracht/stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        <state relative-caret-position="276">
+          <caret line="177" column="1" lean-forward="true" selection-end-line="179" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/home.html">
+    <entry file="file://$PROJECT_DIR$/oefenen.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        <state relative-caret-position="17">
+          <caret line="66" column="23" selection-start-line="66" selection-start-column="23" selection-end-line="66" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/bacterie.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="6" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/statistiek.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="80" />
-        </state>
-      </provider>
+    <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/static/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        <state relative-caret-position="168">
+          <caret line="65" column="48" selection-start-line="65" selection-start-column="48" selection-end-line="65" selection-end-column="48" />
           <folding>
             <element signature="e#52#74#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/stylesheet.css">
+    <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/statistiek.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="167" column="20" lean-forward="true" selection-end-line="179" />
+        <state relative-caret-position="289">
+          <caret line="68" column="4" selection-start-line="68" selection-start-column="4" selection-end-line="68" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="116" selection-start-line="116" selection-end-line="116" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/bacterie.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1870">
+          <caret line="110" column="4" selection-start-line="110" selection-start-column="4" selection-end-line="110" selection-end-column="4" />
+          <folding>
+            <element signature="n#style#0;n#form#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/tabel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/static/css/name.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="289">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
         </state>
       </provider>
     </entry>
