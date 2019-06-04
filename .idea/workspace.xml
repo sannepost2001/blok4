@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$USER_HOME$/PycharmProjects/eindopdracht/stylesheet.css" line="163" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="41f6a856-386f-42d6-b077-56ea52bd031e" name="Default Changelist" comment="Werkt">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/SannePost.xml" afterDir="false" />
+    <list default="true" id="41f6a856-386f-42d6-b077-56ea52bd031e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oefenen.py" beforeDir="false" afterPath="$PROJECT_DIR$/oefenen.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/application.py" beforeDir="false" afterPath="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/application.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,14 +19,14 @@
     <SUITE FILE_PATH="coverage/blok4$Flask__afvink4_app_py_.coverage" NAME="Flask (afvink4/app.py) Coverage Results" MODIFIED="1557389901663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/blok4$af3opdrachtversie2.coverage" NAME="af3opdrachtversie2 Coverage Results" MODIFIED="1558011561710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/afvink3" />
     <SUITE FILE_PATH="coverage/blok4$Flask______________PycharmProjects_eindopdracht_app_py_.coverage" NAME="Flask (../../../../PycharmProjects/eindopdracht/app.py) Coverage Results" MODIFIED="1558012029157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/blok4$app.coverage" NAME="app Coverage Results" MODIFIED="1559552983009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Eind2/eindopdracht" />
+    <SUITE FILE_PATH="coverage/blok4$app.coverage" NAME="app Coverage Results" MODIFIED="1559554621566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Eind2/eindopdracht" />
     <SUITE FILE_PATH="coverage/blok4$Flask______________PycharmProjects_eind_1_app_py_.coverage" NAME="Flask (../../../../PycharmProjects/eind 1/app.py) Coverage Results" MODIFIED="1557308442020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/blok4$web.coverage" NAME="web Coverage Results" MODIFIED="1557317475001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eind" />
     <SUITE FILE_PATH="coverage/blok4$Flask__afvink42_app_py_.coverage" NAME="Flask (afvink42/app.py) Coverage Results" MODIFIED="1557395957622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/blok4$Flask______________PycharmProjects_oefenen_app_py_.coverage" NAME="Flask (../../../../PycharmProjects/oefenen/app.py) Coverage Results" MODIFIED="1558000635350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/blok4$opdrachtversie2.coverage" NAME="opdrachtversie2 Coverage Results" MODIFIED="1557318592372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/afvink3" />
     <SUITE FILE_PATH="coverage/blok4$af2opdrachtversie3.coverage" NAME="af2opdrachtversie3 Coverage Results" MODIFIED="1557390099410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/afvink2" />
-    <SUITE FILE_PATH="coverage/blok4$application.coverage" NAME="application Coverage Results" MODIFIED="1557407847535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/eindopdracht" />
+    <SUITE FILE_PATH="coverage/blok4$application.coverage" NAME="application Coverage Results" MODIFIED="1559642588658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Eind2/eindopdracht" />
     <SUITE FILE_PATH="coverage/blok4$app__1_.coverage" NAME="app (1) Coverage Results" MODIFIED="1557822853707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eind" />
   </component>
   <component name="DatabaseView">
@@ -45,21 +47,21 @@
     <session id="-1558129860">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="3" />
-          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="19" />
-          <entry key="html" value="66" />
+          <entry key="css" value="20" />
+          <entry key="html" value="68" />
           <entry key="ico" value="4" />
           <entry key="js" value="3" />
           <entry key="md" value="1" />
@@ -68,18 +70,18 @@
           <entry key="scss" value="1" />
           <entry key="sql" value="1" />
           <entry key="tcl" value="1" />
-          <entry key="txt" value="5" />
+          <entry key="txt" value="7" />
           <entry key="xml" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="19" />
-          <entry key="HTML" value="66" />
+          <entry key="CSS" value="20" />
+          <entry key="HTML" value="68" />
           <entry key="Image" value="4" />
           <entry key="JavaScript" value="3" />
           <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="PLAIN_TEXT" value="9" />
           <entry key="Python" value="59" />
           <entry key="SCSS" value="1" />
           <entry key="Scratch" value="1" />
@@ -88,20 +90,20 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="438" />
+          <entry key="css" value="466" />
           <entry key="dummy" value="20" />
-          <entry key="html" value="3263" />
-          <entry key="py" value="7540" />
-          <entry key="txt" value="211" />
+          <entry key="html" value="3484" />
+          <entry key="py" value="8446" />
+          <entry key="txt" value="413" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="438" />
-          <entry key="HTML" value="3263" />
-          <entry key="PLAIN_TEXT" value="231" />
-          <entry key="Python" value="7522" />
-          <entry key="SQL" value="18" />
+          <entry key="CSS" value="466" />
+          <entry key="HTML" value="3484" />
+          <entry key="PLAIN_TEXT" value="433" />
+          <entry key="Python" value="8425" />
+          <entry key="SQL" value="21" />
         </counts>
       </usages-collector>
     </session>
@@ -111,8 +113,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/tabel.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+            <state relative-caret-position="296">
+              <caret line="34" column="72" selection-start-line="34" selection-start-column="72" selection-end-line="34" selection-end-column="72" />
             </state>
           </provider>
         </entry>
@@ -120,8 +122,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
+            <state relative-caret-position="167">
+              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -129,8 +131,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/statistiek.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+            <state relative-caret-position="17">
+              <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -141,21 +143,39 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/bacterie.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            <state relative-caret-position="93">
+              <caret line="31" column="12" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
               <folding>
                 <element signature="n#style#0;n#form#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#form#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#form#2;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/application.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4319">
+              <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+              <folding>
+                <element signature="e#52#74#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/application.py">
+        <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/seqs.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+            <state relative-caret-position="348">
+              <caret line="39" column="60" selection-start-line="39" selection-start-column="60" selection-end-line="39" selection-end-column="60" />
+              <folding>
+                <element signature="n#style#0;n#form#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#form#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#form#2;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -163,17 +183,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/error.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="26" column="12" lean-forward="true" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+            <state relative-caret-position="164">
+              <caret line="21" column="58" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/PycharmProjects/eindopdracht/stylesheet.css">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/static/css/name.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+            <state relative-caret-position="327">
+              <caret line="171" column="25" selection-start-line="171" selection-start-column="25" selection-end-line="171" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -181,11 +201,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/zelfblast.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="36" column="12" lean-forward="true" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
-              <folding>
-                <element signature="n#ul#0;n#nav#0;n#body#0;n#html#0;n#!!top" />
-              </folding>
+            <state relative-caret-position="-234">
+              <caret line="20" selection-start-line="20" selection-end-line="20" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -218,6 +235,7 @@
       <find>aside</find>
       <find>pri</find>
       <find>print</find>
+      <find>prot</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -226,6 +244,7 @@
         <option value="sannepost2001 &lt;43266412+sannepost2001@users.noreply.github.com&gt;" />
       </list>
     </option>
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/PycharmProjects/Eind2" />
@@ -269,16 +288,20 @@
         <option value="$USER_HOME$/PycharmProjects/oefenen/templates/statistiek.html" />
         <option value="$USER_HOME$/PycharmProjects/eindopdracht/static/css/name.css" />
         <option value="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/stylesheet.css" />
-        <option value="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/static/css/name.css" />
-        <option value="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/home.html" />
-        <option value="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/tabel.html" />
         <option value="$PROJECT_DIR$/oefenen.py" />
-        <option value="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/bacterie.html" />
-        <option value="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/zelfblast.html" />
-        <option value="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/statistiek.html" />
-        <option value="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/error.html" />
         <option value="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/app.py" />
         <option value="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/venv/Lib/site-packages/flask/cli.py" />
+        <option value="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/home.html" />
+        <option value="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/zelfblast.html" />
+        <option value="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/error.html" />
+        <option value="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/venv/requirements.txt" />
+        <option value="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/requirements.txt" />
+        <option value="$USER_HOME$/PycharmProjects/eindopdracht/stylesheet.css" />
+        <option value="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/static/css/name.css" />
+        <option value="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/tabel.html" />
+        <option value="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/statistiek.html" />
+        <option value="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/bacterie.html" />
+        <option value="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/seqs.html" />
         <option value="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/application.py" />
       </list>
     </option>
@@ -290,9 +313,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1363" />
-    <option name="height" value="735" />
+    <option name="height" value="728" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -317,21 +341,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="blok4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blok4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blok4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blok4" type="462c0819:PsiDirectoryNode" />
-              <item name="afvink4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blok4" type="b2602c69:ProjectViewProjectNode" />
               <item name="Eind2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -343,14 +357,14 @@
               <item name="blok4" type="b2602c69:ProjectViewProjectNode" />
               <item name="Eind2" type="462c0819:PsiDirectoryNode" />
               <item name="eindopdracht" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="blok4" type="b2602c69:ProjectViewProjectNode" />
               <item name="Eind2" type="462c0819:PsiDirectoryNode" />
               <item name="eindopdracht" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-              <item name="inspectionProfiles" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="blok4" type="b2602c69:ProjectViewProjectNode" />
@@ -362,6 +376,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -403,14 +418,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.app">
+  <component name="RunManager" selected="Python.application">
     <configuration name="home.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/blok4/eindopdracht/templates/home.html">
       <method v="2" />
     </configuration>
     <configuration name="statistiek.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/blok4/eindopdracht/templates/statistiek.html">
-      <method v="2" />
-    </configuration>
-    <configuration name="tabel.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/blok4/eindopdracht/templates/tabel.html">
       <method v="2" />
     </configuration>
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -427,6 +439,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="application" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Eind2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/Eind2/eindopdracht" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/Eind2/eindopdracht/application.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -491,18 +525,18 @@
       <item itemvalue="Flask server.eind 1" />
       <item itemvalue="Flask server.afvink4" />
       <item itemvalue="Python.app" />
-      <item itemvalue="JavaScript Debug.tabel.html" />
       <item itemvalue="Python.oefenen" />
       <item itemvalue="JavaScript Debug.home.html" />
       <item itemvalue="JavaScript Debug.statistiek.html" />
+      <item itemvalue="Python.application" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.application" />
         <item itemvalue="Python.app" />
         <item itemvalue="JavaScript Debug.statistiek.html" />
         <item itemvalue="Python.oefenen" />
         <item itemvalue="JavaScript Debug.home.html" />
-        <item itemvalue="JavaScript Debug.tabel.html" />
       </list>
     </recent_temporary>
   </component>
@@ -720,7 +754,84 @@
       <option name="project" value="LOCAL" />
       <updated>1559553482992</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Werkt">
+      <created>1559554400139</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1559554400139</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Werkt">
+      <created>1559555373842</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1559555373842</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Werkt">
+      <created>1559557382537</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1559557382537</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Werkt">
+      <created>1559560312320</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1559560312320</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Werkt">
+      <created>1559561922563</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1559561922563</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Werkt">
+      <created>1559561982274</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1559561982274</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Werkt">
+      <created>1559562566516</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1559562566516</updated>
+    </task>
+    <task id="LOCAL-00037" summary="werkt behalve fout in sequenties">
+      <created>1559562910720</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1559562910720</updated>
+    </task>
+    <task id="LOCAL-00038" summary="alles werkt 3-6">
+      <created>1559563936616</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1559563936616</updated>
+    </task>
+    <task id="LOCAL-00039" summary="alles werkt 3-6">
+      <created>1559565027179</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1559565027179</updated>
+    </task>
+    <task id="LOCAL-00040" summary="okay ik heb iets veranderd aan de links blijkbaar toen ik ze bij de rest er in ging zetten en nu werkt het niet meer">
+      <created>1559642761578</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1559642761578</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TodoView">
@@ -737,12 +848,12 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20953101" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21255673" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.0" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8729198" weight="0.3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8721634" visible="true" weight="0.25409836" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -750,7 +861,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49808136" weight="0.32113144" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.12708019" side_tool="true" weight="0.38196722" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.12783661" side_tool="true" weight="0.25409836" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49961627" weight="0.3294509" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4988488" weight="0.3294509" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.3294509" />
@@ -832,21 +943,12 @@
     <MESSAGE value="25-5-19" />
     <MESSAGE value="Werkt behalve zelfblast" />
     <MESSAGE value="Werkt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Werkt" />
-    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="werkt behalve fout in sequenties" />
+    <MESSAGE value="alles werkt 3-6" />
+    <MESSAGE value="okay ik heb iets veranderd aan de links blijkbaar toen ik ze bij de rest er in ging zetten en nu werkt het niet meer" />
+    <option name="LAST_COMMIT_MESSAGE" value="okay ik heb iets veranderd aan de links blijkbaar toen ik ze bij de rest er in ging zetten en nu werkt het niet meer" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/PycharmProjects/eindopdracht/application.py" />
-    <entry file="file://$PROJECT_DIR$/afvink1/af1opdracht1page1.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/afvink1/af1opdracht1page2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="51" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/eind/tabel.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2431">
@@ -959,13 +1061,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/static/css/name.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/PycharmProjects/Eind2/BLAST.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -1015,47 +1110,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/tabel.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/zelfblast.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="36" column="12" lean-forward="true" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
-          <folding>
-            <element signature="n#ul#0;n#nav#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/statistiek.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/error.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="26" column="12" lean-forward="true" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/afvink4/venv/Lib/site-packages/flask/app.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
@@ -1077,38 +1131,104 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/app.py">
+    <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/app.py" />
+    <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/venv/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="221" column="23" selection-start-line="221" selection-start-column="23" selection-end-line="221" selection-end-column="23" />
+        <state>
+          <caret selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/eindopdracht/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="173" column="21" selection-end-line="182" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/tabel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="34" column="72" selection-start-line="34" selection-start-column="72" selection-end-line="34" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/statistiek.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
           <folding>
-            <element signature="e#52#74#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/bacterie.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        <state relative-caret-position="93">
+          <caret line="31" column="12" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
           <folding>
             <element signature="n#style#0;n#form#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#form#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#form#2;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/seqs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="39" column="60" selection-start-line="39" selection-start-column="60" selection-end-line="39" selection-end-column="60" />
+          <folding>
+            <element signature="n#style#0;n#form#0;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#form#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#form#2;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/error.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="21" column="58" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/static/css/name.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="171" column="25" selection-start-line="171" selection-start-column="25" selection-end-line="171" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/templates/zelfblast.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-234">
+          <caret line="20" selection-start-line="20" selection-end-line="20" selection-end-column="58" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/PycharmProjects/Eind2/eindopdracht/application.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/eindopdracht/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        <state relative-caret-position="-4319">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding>
+            <element signature="e#52#74#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
